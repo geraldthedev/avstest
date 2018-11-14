@@ -1,0 +1,21 @@
+{
+  "name": "startfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakeem1106/avstest.git"
+  },
+  "author": "Gerald Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakeem1106/avstest/issues"
+  },
+  "homepage": "https://github.com/hakeem1106/avstest#readme"
+}
